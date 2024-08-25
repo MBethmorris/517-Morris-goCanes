@@ -2,7 +2,7 @@
 Practicing the GitHub Flow- Carolina Hurricanes
 # Let's go Canes
 
-![Carolina Hurricanes photo from PNC website featuring players in red jerseys and white jerseys](Canes-Team-Page-PNC.png)
+![Carolina Hurricanes photo from PNC website featuring players in red jerseys and white jerseys](Hurricanesimages/Canes-Team-Page-PNC.png)
 
 The Carolina Hurricanes moved from Hartford to Raleigh in 1997. 
 
