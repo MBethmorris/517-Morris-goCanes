@@ -24,7 +24,7 @@ The Carolina Hurricanes moved from Hartford to Raleigh in 1997.
 + Halloween night Oct 31
 
 #### Get tickets
-![Ticket info for Oct games screenshot](Tickets.png)
+![Ticket info for Oct games screenshot](Hurricanesimages/Tickets.png)
 
 [2024 Season Tickets](https://www.nhl.com/hurricanes/tickets/)
 
